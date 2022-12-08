@@ -6,7 +6,7 @@ import serial
 import time
 from bs4 import BeautifulSoup
 
-
+#아두이노와 시리얼 연결
 arduino = serial.Serial('com3',9600)
 
 var = 0
@@ -50,6 +50,7 @@ while True:
     
     prediction = model.predict(preprocessed)
     
+    ##이미지판단 후 값을 출력
     if prediction[0,1] < prediction[0,0] and prediction[0,2] < prediction[0,0] and prediction[0,3] < prediction[0,0] and prediction[0,4] < prediction[0,0] :
         cv2.putText(frame_fliped, 'dog', (20, 30), cv2.FONT_HERSHEY_PLAIN, 2, (0, 255, 0))
         var = 0
