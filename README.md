@@ -20,9 +20,9 @@ Link: [아두이노](https://github.com/lingicheon/AI-/blob/main/AI%20%EC%95%84%
 
 ## 프로젝트 결과 
 
-![캡처1](https://user-images.githubusercontent.com/112461228/206396276-6a1fddbe-b344-4c1c-941d-1ace930a3d23.JPG)
+![캡처1](https://user-images.githubusercontent.com/112461228/206402804-b966a449-aba0-4ee6-aa05-e0fc1db3b48c.JPG)
 
-![캡처2](https://user-images.githubusercontent.com/112461228/206396287-b493e22d-1945-4e9e-9673-e53ef64e28e4.JPG)
+![캡처2](https://user-images.githubusercontent.com/112461228/206402838-6ed18441-a6c1-4aaf-b6b8-01a5ec75da5b.JPG)
 
 ## 완성 영상 
 ![움짤2](https://user-images.githubusercontent.com/112461228/206396502-af8f4958-48ec-484d-b6bc-8d9f5bcdcd90.gif)
