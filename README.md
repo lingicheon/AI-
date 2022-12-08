@@ -1,6 +1,6 @@
 #<img src="https://img.shields.io/badge/-4D2B1A?style=flat&logo=Buy Me A Coffee&logoColor=white"/> <AI 제어실습 기말과제><img src="https://img.shields.io/badge/-4D2B1A?style=flat&logo=Buy Me A Coffee&logoColor=white"/>
 -----------------------
-## AI동물이미지 판단및 구별
+## <img src="https://img.shields.io/badge/DC0032?style=flat&logo=DPD&logoColor=white"/>AI동물이미지 판단및 구별<img src="https://img.shields.io/badge/DC0032?style=flat&logo=DPD&logoColor=white"/>
 ### 프로젝트 계획
 #### 파이선을 이용한 이미지 구별후 아두이노로 결과값을 전송하여 LED를 제어함
 ----------------------------------------------------------
