@@ -1,4 +1,4 @@
-# #006600 <AI 제어실습 기말과제>
+#    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=4chan&logoColor=white"/> <AI 제어실습 기말과제>
 -----------------------
 ## AI동물이미지 판단및 구별
 ### 프로젝트 계획
