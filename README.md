@@ -1,4 +1,4 @@
-#    <img src="https://img.shields.io/badge/-#4D2B1A?style=flat&logo=Buy Me A Coffee&logoColor=white"/> <AI 제어실습 기말과제>
+#    <img src="https://img.shields.io/badge/-4D2B1A?style=flat&logo=Buy Me A Coffee&logoColor=white"/> <AI 제어실습 기말과제>
 -----------------------
 ## AI동물이미지 판단및 구별
 ### 프로젝트 계획
