@@ -7,8 +7,7 @@
 ### 제작과정
 * ImageNet을 사용하여 이미지를 수집 
 * Teachable Machine을 이용하여 AI를 학습
-* Visual Studio의 python을 활용 하여 코드를 작성 
-
-Link: [파이선 ](https://github.com/lingicheon/AI-/blob/main/AI%ED%8C%8C%EC%9D%B4%EC%84%A0%20%EC%BD%94%EB%93%9C)
+* Visual Studio의 python을 활용 하여 코드를 작성 (아래링크 참조)
+Link: [파이선](https://github.com/lingicheon/AI-/blob/main/AI%ED%8C%8C%EC%9D%B4%EC%84%A0%20%EC%BD%94%EB%93%9C)
 
 
