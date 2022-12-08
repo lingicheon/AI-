@@ -14,3 +14,8 @@ Link: [파이선](https://github.com/lingicheon/AI-/blob/main/AI%ED%8C%8C%EC%9D%
 
 Link: [아두이노](https://github.com/lingicheon/AI-/blob/main/AI%20%EC%95%84%EB%91%90%EC%9D%B4%EB%85%B8%20%EC%BD%94%EB%93%9C)
 
+### 프로젝트 결과 
+
+![캡처1](https://user-images.githubusercontent.com/112461228/206396276-6a1fddbe-b344-4c1c-941d-1ace930a3d23.JPG)
+
+![캡처2](https://user-images.githubusercontent.com/112461228/206396287-b493e22d-1945-4e9e-9673-e53ef64e28e4.JPG)
