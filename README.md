@@ -2,7 +2,7 @@
 -----------------------
 ## <img src="https://img.shields.io/badge/-DC0032?style=flat&logo=DPD&logoColor=white"/>AI동물이미지 판단및 구별<img src="https://img.shields.io/badge/-DC0032?style=flat&logo=DPD&logoColor=white"/>
 
-![4](https://user-images.githubusercontent.com/112461228/207234874-4a2d90cb-a2c3-4b23-8f99-106404191508.JPG)
+![제목 없음](https://user-images.githubusercontent.com/112461228/207235430-abdee455-65cb-4ee8-a932-0044450cad2a.png)
 
 ### 프로젝트 계획
 #### 파이선을 이용한 이미지 구별후 아두이노로 결과값을 전송하여 LED를 제어함
